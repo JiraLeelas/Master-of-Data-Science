@@ -14,5 +14,6 @@ Assignments submitted for the degree of Master of Data Science Academic Year 202
 |Stragetic Leadership|15|69|
 |Critical Perspectives in Data Science|15|NA|
 |Data Science Research Project|45|NA|
+
 Noted: Once the marks have been confirm this table will be updated.
 

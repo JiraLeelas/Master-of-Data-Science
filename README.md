@@ -6,7 +6,7 @@ Assignments submitted for the degree of Master of Data Science Academic Year 202
 |---------------------|:---------:|:-------:|
 |Introduction to Computer Science|15|99|
 |Programming for Data Science|15|99|
-|Text Mining and Language Analytics|15|99|
+|Text Mining and Language Analytics|15|91|
 |Data Exploration, Visualization and Unsuperised Learning|15|84|
 |Introduction to Statistics for Data Science|15|82|
 |Machine Learning|15|82|

@@ -1,5 +1,5 @@
 # MDS-Durham-Jira
-Assignments submitted for the degree of Master of Data Science Academic Year 2023-2024, Durham University
+A showcase of selected assignments submitted for the degree of Master of Data Science Academic Year 2023-2024, Durham University
 
 ## Unofficial Transript (Only Confirmed Marks)
 | Module Name |  Credits  |  Marks  |

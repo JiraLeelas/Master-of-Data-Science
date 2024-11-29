@@ -13,7 +13,7 @@ A showcase of selected assignments submitted for the degree of Master of Data Sc
 |Ethics and Bias in Data Science|15|82|
 |Stragetic Leadership|15|69|
 |Critical Perspectives in Data Science|15|74|
-|Data Science Research Project|45|NA|
+|Data Science Research Project|45|79|
 
 Noted: Once the marks have been confirm this table will be updated.
 

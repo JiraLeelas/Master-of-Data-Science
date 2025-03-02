@@ -7,12 +7,12 @@ The purpose of this repository is to showcase my learning journey during the Mas
 ## Official Transcript
 | Module Name |  Credits  |  Marks  |
 |---------------------|:---------:|:-------:|
-|Introduction to Computer Science|15|99|
-|Programming for Data Science|15|99|
-|Text Mining and Language Analytics|15|91|
-|Data Exploration, Visualization and Unsuperised Learning|15|84|
+|[Introduction to Computer Science](./Intro%20to%20Computer%20Science/)|15|99|
+|[Programming for Data Science](./Programming%20for%20Data%20Science/)|15|99|
+|[Text Mining and Language Analytics](./Text%20Mining%20and%20Language%20Analytics/)|15|91|
+|[Data Exploration, Visualization and Unsuperised Learning](./Data%20Exploration%20Visualization%20and%20Unsupervised%20Learning/)|15|84|
 |Introduction to Statistics for Data Science|15|82|
-|Machine Learning|15|82|
+|[Machine Learning](./Machine%20Learning/)|15|82|
 |Ethics and Bias in Data Science|15|82|
 |Stragetic Leadership|15|69|
 |Critical Perspectives in Data Science|15|74|
